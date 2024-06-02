@@ -142,7 +142,7 @@ nav {
     transition: .3s;
 
 }
-.active-link::after{
+/* .active-link::after{
     content:'';
     position: absolute;
     left: 50%;
@@ -152,7 +152,7 @@ nav {
     height: 5px;
     background: var(--first-color);
     border-radius: 50%;
-}
+} */
 
 /* Wrapper Design */
 .wrapper {
